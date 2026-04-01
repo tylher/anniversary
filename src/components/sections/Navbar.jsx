@@ -6,7 +6,8 @@ import { usePathname } from 'next/navigation'
 
 const navLinks = [
   { label: 'Home',    href: '/'        },
-  { label: 'Letter',  href: '/letter'  },
+  { label: 'Reasons', href: '/reasons' },
+//   { label: 'Letter',  href: '/letter'  },
   { label: 'Gallery', href: '/gallery' },
 ]
 
@@ -14,7 +15,7 @@ const Navbar = () => {
   const pathname = usePathname()
 
   return (
-    <nav className="fixed top-0 w-full z-50 bg-stone-50/70 dark:bg-stone-950/70 backdrop-blur-md shadow-[0_32px_32px_rgba(44,24,16,0.04)] transition-colors duration-500">
+    <nav className="fixed top-0 w-full z-100 bg-stone-50/70 dark:bg-stone-950/70 backdrop-blur-md shadow-[0_32px_32px_rgba(44,24,16,0.04)] transition-colors duration-500">
       <div className="flex justify-between items-center px-8 py-6 max-w-7xl mx-auto">
 
         <Link href="/" className="font-script text-2xl text-stone-900 dark:text-stone-100">

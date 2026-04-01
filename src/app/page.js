@@ -14,8 +14,6 @@ export default function Home() {
         <NumbersSection/>
         <SummarySection/>
         <TimelineSection/>
-        <GallerySection/>
-        <ReasonsSection/>
       </main>
     </div>
   );
