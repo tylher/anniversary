@@ -40,13 +40,13 @@ const headerVariants = {
 
 const ReasonsSection = () => {
     return (
-        <main class="bg-botanical-texture py-24 px-6 md:px-12 relative overflow-hidden bg-blush" style={{
+        <main className="bg-botanical-texture py-24 px-6 md:px-12 relative overflow-hidden bg-blush" style={{
     backgroundImage: `
       radial-gradient(circle at 20% 30%, rgba(255, 255, 255, 0.4) 0%, transparent 50%),
       radial-gradient(circle at 80% 70%, rgba(253, 249, 244, 0.3) 0%, transparent 40%)
     `
   }}>
-        <header class="text-center mb-20 max-w-3xl mx-auto space-y-4">
+        <header className="text-center mb-20 max-w-3xl mx-auto space-y-4">
             <motion.p
           className="font-script text-3xl text-on-tertiary-fixed-variant leading-none"
           custom={0}
