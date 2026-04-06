@@ -12,8 +12,8 @@ export const entries = [
     season: "MARCH 2025",
     month: "March",
     title: "The night she said yes",
-    body: "she claims till today that I was sweating or stammering but I still stand my ground that I was pretty confident when asking out. Anyway, it was a beautiful night, one that I would remember forever ",
-    quote: "I knew from the smile she had all night...",
+    body: "you claim till today that I was sweating or stammering but I still stand my ground that I was pretty confident when asking out. Anyway, it was a beautiful night, one that I would remember forever ",
+    quote: "I knew from the smile you had all night...",
     image: {
       src: "/images/year_0_march_3.jpg",
       alt: "vintage style photograph of a young couple laughing together by a misty harbor at twilight with soft glowing streetlamps",
@@ -64,7 +64,7 @@ export const entries = [
     season:"AUGUST 2025",
     month: "August",
     title: "Became Family",
-    body: "An opportunity, one we didn't regret we took. Plans were in motion, I was supposed to travel either for job or school and it was his brother wedding so it just felt right that you met my family. I loved every moment except that you didn't soon enough, I hope you did too",
+    body: "An opportunity, one we didn't regret we took. Plans were in motion, I was supposed to travel either for job or school and it was my brother wedding so it just felt right that you met my family. I loved every moment except that you didn't eat soon enough. I hope you did too",
     quote: "The best is yet to come.",
     image: {
       src: "/images/year_1_aug_4.jpeg",
